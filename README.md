@@ -1,6 +1,8 @@
 # Push Notification using vanilla JS
 
-A repo that contains some dom objects along with conditional event listeners that helps beginners with push notifications inside a web page
+A repo that contains some dom objects along with conditional event listeners that helps beginners with push notifications inside a web page.
+
+Sending push notifications in JavaScript seems like it would be difficult if not impossible, but it is actually built into the browser and quite easy.
 
 ---
 
